@@ -9,9 +9,9 @@
   <img align="center" alt="Ulisses-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ulisses-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  
-  <img align="center" alt="Ulisses-CSS" height="30" width="30" src="https://odisseiaonline.com.br/imggeral/nodelogo.png">
-  <img align="center" alt="Ulisses-CSS" height="30" width="40" src="https://odisseiaonline.com.br/imggeral/reactlogo.png">
-   <img align="center" alt="Ulisses-CSS" height="40" width="40" src="https://odisseiaonline.com.br/imggeral/mongodb-logo.png">
+  <img align="center" alt="Ulisses-CSS" height="35" width="35" src="https://odisseiaonline.com.br/imggeral/nodelogo.png">
+  <img align="center" alt="Ulisses-CSS" height="40" width="55" src="https://odisseiaonline.com.br/imggeral/reactlogo.png">
+   <img align="center" alt="Ulisses-CSS" height="40" width="40" src="https://odisseiaonline.com.br/imggeral/mongodb.png">
  
 </div>
   
