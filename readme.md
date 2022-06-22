@@ -12,7 +12,6 @@
 <img align="center" alt="Ulisses-CSS" height="35" width="35" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
 <img align="center" alt="Ulisses-CSS" height="40" width="55" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
 <img align="center" alt="Ulisses-CSS" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
- 
 </div>
   
   ##
